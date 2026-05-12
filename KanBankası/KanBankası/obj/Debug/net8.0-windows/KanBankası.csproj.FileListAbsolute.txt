@@ -1,0 +1,16 @@
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\bin\Debug\net8.0-windows\KanBankası.exe
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\bin\Debug\net8.0-windows\KanBankası.deps.json
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\bin\Debug\net8.0-windows\KanBankası.runtimeconfig.json
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\bin\Debug\net8.0-windows\KanBankası.dll
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\bin\Debug\net8.0-windows\KanBankası.pdb
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.Form1.resources
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.csproj.GenerateResource.cache
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.AssemblyInfoInputs.cache
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.AssemblyInfo.cs
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.csproj.CoreCompileInputs.cache
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.dll
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\refint\KanBankası.dll
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.pdb
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\KanBankası.genruntimeconfig.cache
+C:\Users\CARSILAB\Desktop\KanBankası\KanBankası\obj\Debug\net8.0-windows\ref\KanBankası.dll
